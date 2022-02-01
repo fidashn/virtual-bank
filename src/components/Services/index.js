@@ -33,24 +33,23 @@ const Services = () => {
           data-aos-once>
           <ServicesCard>
             <ServicesIcon src={Icon1} />
-            <ServicesH2>Tamper Proof</ServicesH2>
+            <ServicesH2>Transition low fee</ServicesH2>
             <ServicesP>
-              Connect highly accurate and available data/APIs to any smart
-              contract.
+              Convert money to any account around the world.
             </ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon2} />
-            <ServicesH2>Seamless Connection</ServicesH2>
+            <ServicesH2>Easy Access</ServicesH2>
             <ServicesP>
-              Build on a flexible framework that can retrieve data from any API.
+              Access accurate data of your account balance anywhere, anytime.
             </ServicesP>
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon3} />
-            <ServicesH2>Transparent Computation</ServicesH2>
+            <ServicesH2>Investments</ServicesH2>
             <ServicesP>
-              Independently monitor and verify Chainlink’s open-source code.
+              our team could help you understand and start investing in the stock market.
             </ServicesP>
           </ServicesCard>
         </ServicesWrapper>

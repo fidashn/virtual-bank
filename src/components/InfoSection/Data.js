@@ -4,9 +4,9 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: "Universally Connected",
-  headline: "Build Your Contracts",
+  headline: "Use our mobile app",
   description:
-    "Use decentralization and cryptographic proofs to connect highly accurate and available data/APIs to any smart contract.",
+    "you don't have to carry around your laptop in order to get your balance info, you can simply download our user-friendly smartphone app.",
   buttonLabel: "Get started",
   imgStart: false,
   img: require("../../images/svg-3.svg").default,
@@ -23,7 +23,7 @@ export const homeObjTwo = {
   topLine: "Privacy Matters",
   headline: "Highly Secure and Flexible",
   description:
-    "Integrate battle-hardened and time-tested oracle solutions that secure billions of dollars in value for market-leading blockchain projects.",
+    "Vir-Bank keeps yoour privacy at heart, with our 2-step confirmation you'll feel more secure aboutb your purchases and cridet-card data.",
   buttonLabel: "Learn More",
   imgStart: true,
   img: require("../../images/svg-2.svg").default,
@@ -37,10 +37,10 @@ export const homeObjThree = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: "Join Our Team",
+  topLine: "Our Team Will Help",
   headline: "We're Always Growing",
   description:
-    "Chainlink greatly expands the capability of smart contracts by enabling access to real-world data, guaranteeing secure and reliable blockchain technology.",
+    "in Vir-Bank client comes first, even when travelling abroad our team is up for your service 24/7.",
   buttonLabel: "Sign Up",
   imgStart: false,
   img: require("../../images/svg-5.svg").default,

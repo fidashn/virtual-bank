@@ -24,9 +24,9 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Connect Your Smart Contract</HeroH1>
+        <HeroH1>Join our happy clients</HeroH1>
         <HeroP>
-          Dolla's decentralized oracle network provides reliable, tamper-proof smart contracts.
+          Vir-Bank will help you manage your expenses and grow your savings.
         </HeroP>
         <HeroBtnWrapper>
           <Button
